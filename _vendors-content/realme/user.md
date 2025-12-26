@@ -122,7 +122,6 @@ On newer versions, the App battery management was moved to _system settings → 
 
 Similar to the previous Performance mode on older versions, with a different name. 
 
-
 <div class="img-block">
   <figure>
     <img src="/assets/img/realme/realme_battery_mode_1.jpg">
